@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerCtrl : MonoBehaviour
 {
     private Rigidbody rb;
+    public transform tr;
     // Start is called before the first frame update
     void Start()
     {
